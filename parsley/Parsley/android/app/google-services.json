@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "876994628515",
+    "project_id": "parsley-auth",
+    "storage_bucket": "parsley-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876994628515:android:13a49ee5d02f22c10be816",
+        "android_client_info": {
+          "package_name": "com.mertguldev.parsley"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876994628515-bq9ks2f4gs5u8jhrqei5cs3unlphnjrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mertguldev.parsley",
+            "certificate_hash": "707c8948f13bc2c5246569078b45585bcc6fc0e8"
+          }
+        },
+        {
+          "client_id": "876994628515-qch2ndscrlh4i8nugbaae28k5k9mf6k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiIOa1RdbaMU31aQCAtlMpg24SJMNVOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876994628515-qch2ndscrlh4i8nugbaae28k5k9mf6k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
