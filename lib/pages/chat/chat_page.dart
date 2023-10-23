@@ -7,6 +7,7 @@ import 'package:parsley/constants/dimensions.dart';
 import 'package:parsley/models/message_model.dart';
 import 'package:parsley/pages/chat/chat_messages.dart';
 import 'package:chat_gpt_sdk/chat_gpt_sdk.dart';
+import 'package:parsley/constants/app_constanst.dart';
 
 class ChatPage extends StatefulWidget {
   const ChatPage({Key? key}) : super(key: key);
@@ -19,7 +20,7 @@ class _ChatPageState extends State<ChatPage> {
   final TextEditingController txtMessage = TextEditingController();
   late OpenAI openAI;
   StreamSubscription? subscription;
-  final apiKey = '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';
+  final apiKey = AppConstants.API_KEY;
 
   final messages =[MessageModel("hi", true)] ;
 
