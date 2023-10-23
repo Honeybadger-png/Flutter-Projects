@@ -1,6 +1,7 @@
 # parsley
 
-A new Flutter project.
+My graduation project using Flutter framework named after my favorite vegie parsley.Basically i tried to make a meal plan for the users and also i implemented openAI to serve users need. Also chatting with a AI is fun.
+I wont be continue to develope this app for now so some API key expiration problems may occur 
 
 ## Getting Started
 
